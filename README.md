@@ -16,7 +16,7 @@ A data-driven project aimed at understanding and predicting employee absenteeism
 ## 📊 Dashboard
 
 Interactive Tableau dashboard for visual analysis of absenteeism patterns:
-**🔗 [View Dashboard](LINK_HERE_FROM_dashboard_link.txt)**
+**🔗 [View Dashboard](https://public.tableau.com/views/EmployeeAbsenteeismAnalysisDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 - 📅 Absenteeism by Reason Group
 - 📈 Absenteeism over Months
