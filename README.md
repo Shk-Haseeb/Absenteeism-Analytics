@@ -28,8 +28,3 @@ This project explores and predicts employee absenteeism using data analytics and
 - **Peak Months:** March & November
 - **Impactful Features:** Reason Group, Workload, Month, Education
 - **Best Model:** Random Forest (R² ≈ 0.46, RMSE ≈ 11.2 hrs)
-
----
-
-## 🗂 Folder Overview
-
