@@ -17,7 +17,7 @@ This project explores and predicts employee absenteeism using data analytics and
 
 ![Dashboard Preview](images/dashboard_preview.png)
 
-> 📍 [Click here to view full interactive dashboard](https://public.tableau.com/...)  
+> 📍 [Click here to view full interactive dashboard](https://public.tableau.com/views/EmployeeAbsenteeismAnalysisDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 > Filters: Education, Children, Pets | Views: Reason Group, Month, Age
 
 ---
