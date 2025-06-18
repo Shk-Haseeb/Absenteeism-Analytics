@@ -1,4 +1,4 @@
-# 🧑‍💼 Employee Absenteeism Analysis
+# Employee Absenteeism Analysis
 
 This project explores and predicts employee absenteeism using data analytics and machine learning. Completed as part of the **Google Data Analytics Professional Certificate**, it combines EDA, predictive modeling, and dashboard storytelling in **Python** and **Tableau**.
 
