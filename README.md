@@ -4,7 +4,7 @@ This project explores and predicts employee absenteeism using data analytics and
 
 ---
 
-## 🧩 Project Summary
+### Project Summary
 
 - **🎯 Goal:** Understand key factors driving absenteeism and predict lost work hours.
 - **📦 Tools:** Python (pandas, scikit-learn, XGBoost), Tableau Public
@@ -13,7 +13,7 @@ This project explores and predicts employee absenteeism using data analytics and
 
 ---
 
-## 📸 Dashboard Preview
+### Dashboard Preview
 
 ![Dashboard Preview](images/dashboard_preview.png)
 
@@ -22,7 +22,7 @@ This project explores and predicts employee absenteeism using data analytics and
 
 ---
 
-## 🔍 Key Findings
+### Key Findings
 
 - **Top Absence Type:** Medical-related (Reason Group 1)
 - **Peak Months:** March & November
