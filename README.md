@@ -6,10 +6,10 @@ This project explores and predicts employee absenteeism using data analytics and
 
 ### Project Summary
 
-- **🎯 Goal:** Understand key factors driving absenteeism and predict lost work hours.
-- **📦 Tools:** Python (pandas, scikit-learn, XGBoost), Tableau Public
-- **📊 Techniques:** EDA, feature engineering, regression modeling, dashboarding
-- **📁 Dataset:** Simulated HR absenteeism data (via Coursera)
+- **Goal:** Understand key factors driving absenteeism and predict lost work hours.
+- **Tools:** Python (pandas, scikit-learn, XGBoost), Tableau Public
+- **Techniques:** EDA, feature engineering, regression modeling, dashboarding
+- **Dataset:** Simulated HR absenteeism data (via Coursera)
 
 ---
 
