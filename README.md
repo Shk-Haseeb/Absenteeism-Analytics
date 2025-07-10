@@ -27,4 +27,4 @@ This project explores and predicts employee absenteeism using data analytics and
 - **Top Absence Type:** Medical-related (Reason Group 1)
 - **Peak Months:** March & November
 - **Impactful Features:** Reason Group, Workload, Month, Education
-- **Best Model:** Random Forest (R² ≈ 0.46, RMSE ≈ 11.2 hrs)
+- **Best Model:** Random Forest (R² ≈ 0.46, RMSE ≈ 11.2 hrs), outperforming linear regression models
